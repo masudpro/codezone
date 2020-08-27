@@ -1,0 +1,39 @@
+.course{
+background: #F0F5FF;
+box-shadow:  20px 20px 60px #ccd0d9, 
+             -20px -20px 60px #ffffff;
+             margin-bottom: 50px;
+}
+
+.authorImage{
+    width:50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: -10px;
+    object-fit: cover;
+    object-position: center ;
+    
+}
+.courseImage{
+    height: 100%;
+}
+.course p{
+    margin:0px !important;
+    padding:0px !important;
+}
+.mentor{
+    margin:0px !important;
+    padding:0px !important;
+}
+
+.coursePrice{
+    text-decoration: line-through
+}
+.addToCart{
+    background: #F4BE49;
+    padding: 5px 0px;
+    border-radius: 5px;;
+}
+.addToCart:hover{
+    background: #F4A907;;
+}

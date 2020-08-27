@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background: #F0F5FF;
+ 
+}
+
+.BuyNow{
+  background: #F4BE49;
+  padding: 5px 0px;
+  border-radius: 5px;;
+}
+.BuyNow:hover{
+  background: #F4A907;;
+}
+.badge{
+  box-shadow: 2px 2px 2px #000000;
+}
+
+
+
+
+
+
+
+
